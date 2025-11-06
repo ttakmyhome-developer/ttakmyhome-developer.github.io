@@ -152,9 +152,9 @@
     const script = document.createElement('script');
     script.src = 'https://giscus.app/client.js';
     script.setAttribute('data-repo', 'ttakmyhome-developer/ttakmyhome-developer.github.io');
-    script.setAttribute('data-repo-id', 'R_kgDONhqLBQ'); // Giscus 설정에서 가져온 값으로 교체 필요
+    script.setAttribute('data-repo-id', 'R_kgDOQQWkPw');
     script.setAttribute('data-category', 'General');
-    script.setAttribute('data-category-id', 'DIC_kwDONhqLBc4ClQB5'); // Giscus 설정에서 가져온 값으로 교체 필요
+    script.setAttribute('data-category-id', 'DIC_kwDOQQWkP84Cxfvp');
     script.setAttribute('data-mapping', 'pathname');
     script.setAttribute('data-strict', '0');
     script.setAttribute('data-reactions-enabled', '1');
